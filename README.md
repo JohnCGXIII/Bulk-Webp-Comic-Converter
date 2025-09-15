@@ -12,8 +12,6 @@ It supports `.cbz` and `.cbr` archives and multi-threaded image conversion to **
 - ⚡ Multi-threaded image conversion (uses half or all CPU cores)  
 - 🎚️ Adjustable quality settings  
 - 📉 Reports before/after file sizes for each comic  
-- 🔄 Progress indicator: `Processed X / Y`  
-- 🖱️ Simple Tkinter-based GUI  
 
 ---
 
