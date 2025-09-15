@@ -15,6 +15,9 @@ It supports `.cbz` and `.cbr` archives and multi-threaded image conversion to **
 
 ---
 
+<img width="416" height="340" alt="image" src="https://github.com/user-attachments/assets/935eba7a-66cc-4750-8473-edc79f8beaac" />
+
+
 ## 📦 Dependencies
 
 - [Python 3.8+](https://www.python.org/downloads/)  
